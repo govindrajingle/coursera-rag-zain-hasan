@@ -1,0 +1,5 @@
+Apple makes iPhone and MacBook products.
+Python is widely used for machine learning.
+BM25 is a powerful keyword search algorithm.
+RAG combines retrieval and generation.
+Qwen is an open source language model.

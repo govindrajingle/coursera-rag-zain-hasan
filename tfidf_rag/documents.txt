@@ -1,5 +1,0 @@
-Apple is a fruit rich in vitamins.
-Python is programming language used for AI.
-Bananas contain potassium and fiber.
-Large Language models are used in RAG system.
-Apple products include iPhone and MacBook.

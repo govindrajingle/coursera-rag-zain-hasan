@@ -1,5 +1,0 @@
-weaviate-client
-ollama
-pypdf
-python-dotenv
-pandas

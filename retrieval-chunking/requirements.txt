@@ -1,0 +1,4 @@
+ollama
+pypdf
+numpy
+scikit-learn

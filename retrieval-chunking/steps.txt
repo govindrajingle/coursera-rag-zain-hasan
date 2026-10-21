@@ -1,0 +1,14 @@
+Step 6 — generator.py: Pass the retrieved text to llama3.2:3b and generate an answer grounded in your PDF.
+
+
+
+Step 7 — evaluate.py: Label relevant chunks for test questions and calculate precision@5 and recall@5.
+
+
+
+Step 8 — main.py: Connect everything into one runnable application.
+
+
+(before store the embeddings to vector db as this embeddings are getting created every time)
+
+start by running retrierver.py
